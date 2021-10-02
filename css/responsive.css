@@ -1,0 +1,18 @@
+@media screen and (min-width:768px){
+.sameservice {margin-bottom: 50px;}
+}
+
+
+@media screen and (min-width:480px){
+.banner p {font-size: 25px;}
+.banner h2 {font-size: 50px;}
+}
+
+@media screen and (min-width:320px){
+.banner h2 {font-size: 40px;}
+.banner p {font-size: 20px;}
+.portfoliosection {padding: 30px 0px;}
+.ourportfolio p {font-size: 15px;}
+.button{font-size: 12px;}
+
+}
